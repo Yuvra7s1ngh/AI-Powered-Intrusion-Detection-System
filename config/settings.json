@@ -1,0 +1,7 @@
+{
+  "model_path": "models/ids_model.pkl",
+  "alert_threshold": 0.8,
+  "enable_telegram": false,
+  "telegram_bot_token": "",
+  "telegram_chat_id": ""
+}
