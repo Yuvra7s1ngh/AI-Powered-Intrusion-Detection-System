@@ -1,3 +1,6 @@
+![Build Status](https://github.com/Yuvra7s1ngh/AI-Powered-Intrusion-Detection-System/actions/workflows/python-app.yml/badge.svg)
+
+
 # 🛡️ AI-Powered Intrusion Detection System for Home Networks
 
 A real-time intrusion detection system (IDS) that leverages artificial intelligence and machine learning to monitor and analyze live network traffic on home or small office networks. This project replaces traditional static rule-based detection with dynamic AI-driven classification to detect anomalies, zero-day attacks, and malicious traffic effectively.
